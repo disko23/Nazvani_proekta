@@ -5,6 +5,9 @@
 
 using namespace std;
 
+
+// comment
+
 void cubik (int a)
 {
 	char vg = '|', gg = '_', ps = ' ', tchk = '*';
